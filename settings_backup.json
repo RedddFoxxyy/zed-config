@@ -59,7 +59,7 @@
   "preview_tabs": {
     "enabled": false,
     "enable_preview_from_file_finder": false,
-    "enable_keep_preview_on_code_navigation": false
+    "enable_preview_from_code_navigation": false
   },
   "languages": {
     "C": {
